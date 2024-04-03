@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author kheal
+ * @author chrystiandybas
  */
 public class InputUtils {
 
